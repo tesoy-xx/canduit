@@ -1,5 +1,5 @@
-tesoy-xx{
-  "name": "canduit",
+{
+  "name": "sandy guarino",
   "version": "1.3.1",
   "description": "Node.js Phabricator Conduit API client",
   "main": "canduit.js",
